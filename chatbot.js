@@ -522,7 +522,7 @@ class ChatBot {
                     
                     <div class="chat-messages" id="chatMessages">
                         <div class="message system">
-                            Welcome to AI Assistant! I can answer any questions about Professor Luarn's courses or AI topics.
+                            Welcome to Vanessa's AI Assistant! I can answer any questions about Professor Luarn's courses or AI topics.
                         </div>
                     </div>
                     
